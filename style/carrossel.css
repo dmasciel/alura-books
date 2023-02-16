@@ -102,6 +102,23 @@
     .swiper-button-next {
         display: block;
         top: 60%;
+        justify-content: center;
+        align-items: center;
+        width: 48px;
+        height: 48px;
+    }
+
+    .swiper-button-prev {
+        margin-left: 0em;
+    }
+
+    .swiper-button-next {
+        margin-right: 0em;
+    }
+
+    .swiper-button-prev::after,
+    .swiper-button-next::after {
+        content: "";
     }
 
     .card {

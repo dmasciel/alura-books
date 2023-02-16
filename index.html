@@ -122,11 +122,9 @@
 
 
                 <!-- If we need navigation buttons -->
-                <div class="swiper-button-prev"></div>
-                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"><img src="./img/Esquerda.svg" alt="Botão para movimentar o carrossel para a esquerda"></div>
+                <div class="swiper-button-next"><img src="./img/Direita.svg" alt="Botão para movimentar o carrossel para a direita"></div>
 
-                <!-- If we need scrollbar -->
-                <!-- <div class="swiper-scrollbar"></div> -->
             </div>
 
             <!-- </section> -->
@@ -200,8 +198,8 @@
 
 
                         <!-- If we need navigation buttons -->
-                        <div class="swiper-button-prev"></div>
-                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"><img src="./img/Esquerda.svg" alt="Botão para movimentar o carrossel para a esquerda"></div>
+                        <div class="swiper-button-next"><img src="./img/Direita.svg" alt="Botão para movimentar o carrossel para a direita"></div>
 
                         <!-- If we need scrollbar -->
                         <!-- <div class="swiper-scrollbar"></div> -->
@@ -372,6 +370,10 @@
             pagination: {
                 el: '.swiper-pagination',
                 type: 'bullets',
+            },
+            navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
             },
         });
     </script>

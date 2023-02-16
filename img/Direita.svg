@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{clip-path:url(#SVGID_00000022524951646977407890000002790379496448147593_);}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="20.2509" y1="35.0261" x2="89.6308" y2="25.8394" gradientTransform="matrix(1 0 0 -1 0 58)">
+		<stop  offset="0" style="stop-color:#002F52"/>
+		<stop  offset="1" style="stop-color:#326589"/>
+	</linearGradient>
+	<circle class="st0" cx="28" cy="24" r="24"/>
+	<g>
+		<defs>
+			<rect id="SVGID_00000128465101987720608560000002853986034566698419_" x="16" y="12" width="24" height="24"/>
+		</defs>
+		<clipPath id="SVGID_00000163069694634078122030000001834327022766708633_">
+			<use xlink:href="#SVGID_00000128465101987720608560000002853986034566698419_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000163069694634078122030000001834327022766708633_);">
+			<path class="st2" d="M24,19.4l1.4-1.4l6,6l-6,6L24,28.6l4.6-4.6L24,19.4z"/>
+		</g>
+	</g>
+</g>
+</svg>
